@@ -1,13 +1,13 @@
-  <!DOCTYPE HTML>
-  <html>
-      <head>
-          <title>Example</title>
-      </head>
-      <body>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
 
-          <?php
-              echo "Hi, I'm a PHP cript";
-          ?>
+        <?php
+            echo "Hi, I'm a PHP cript";
+        ?>
 
-      </body>
-  </html>
+    </body>
+</html>
